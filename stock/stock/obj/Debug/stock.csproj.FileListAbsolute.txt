@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2012\Projects\stock\stock\bin\Debug\stock.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\stock\stock\obj\Debug\stock.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\stock\stock\obj\Debug\stock.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\stock\stock\obj\Debug\stock.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\stock\stock\obj\Debug\stock.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\stock\stock\bin\Debug\stock.exe
+c:\users\admin\documents\visual studio 2012\Projects\stock\stock\bin\Debug\stock.pdb
+c:\users\admin\documents\visual studio 2012\Projects\stock\stock\obj\Debug\stock.exe
+c:\users\admin\documents\visual studio 2012\Projects\stock\stock\obj\Debug\stock.pdb
+c:\users\admin\documents\visual studio 2012\Projects\stock\stock\obj\Debug\stock.login.resources
+c:\users\admin\documents\visual studio 2012\Projects\stock\stock\obj\Debug\stock.maain.resources
+c:\users\admin\documents\visual studio 2012\Projects\stock\stock\obj\Debug\stock.products.resources
